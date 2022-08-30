@@ -2,7 +2,12 @@
 
 <h2 align="center">About me</h2>
 
-
+<!-- 🔭 I’m currently working on ... -->
+- 🔭 I’m a programmer with knowledge in C# and Web Development
+- 🌱 I’m currently learning WebSocket, WebRTC, Rust
+- 👯 I’m looking to collaborate on any project, especially if it's about videogames or anime
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: <a href="mailto:cardullo.matias.97@gmail.com">cardullo.matias.97@gmail.com</a>
 
 <h2 align="center">You can reach me at</h2>
 
@@ -22,7 +27,7 @@
 
 <h2 align="center">My stack :man_technologist:</h2>
 
-<p align="center">JavaScript | ReactJS | NodeJS | Express | Psql</p>
+<p align="center">C# | Windows batch | JavaScript | ReactJS | Redux | NodeJS | Express | Postgres | MySQL | Vercel | Heroku | TailwindCss | Postman | Phothoshop</p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
@@ -39,19 +44,3 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MatiasCardullo&show_icons=true&theme=synthwave" alt="MatiasCardullo :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
-
-<!--
-**MatiasCardullo/MatiasCardullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
