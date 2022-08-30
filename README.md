@@ -6,7 +6,7 @@
 - 🔭 I’m a programmer with knowledge in C# and Web Development
 - 🌱 I’m currently learning WebSocket, WebRTC, Rust
 - 👯 I’m looking to collaborate on any project, especially if it's about videogames or anime
-- 🤔 I’m looking for help with ...
+<!-- 🤔 I’m looking for help with ... -->
 - 📫 How to reach me: <a href="mailto:cardullo.matias.97@gmail.com">cardullo.matias.97@gmail.com</a>
 
 <h2 align="center">You can reach me at</h2>
