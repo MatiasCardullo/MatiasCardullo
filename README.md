@@ -6,7 +6,7 @@
 - 🔭 I’m a programmer with knowledge in C# and Web Development
 - 🌱 I’m currently learning WebSocket, WebRTC, Rust
 - 👯 I’m looking to collaborate on any project, especially if it's about videogames or anime
-- 📚 Check out this <a href="e-knows.herokuapp.com">eccommerce book store</a> I made with some friends from SoyHenry 
+- 📚 Check out this <a href="https://e-knows.herokuapp.com">eccommerce book store</a> I made with some friends from SoyHenry 
 <!-- 🤔 I’m looking for help with ... -->
 
 <h2 align="center">You can reach me at</h2>
