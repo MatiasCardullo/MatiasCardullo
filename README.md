@@ -31,7 +31,8 @@
 
 <h2 align="center">My stack :man_technologist:</h2>
 
-<p align="center">C# | Windows batch | JavaScript | ReactJS | Redux | NodeJS | Express | Postgres | MySQL | Vercel | Heroku | TailwindCss | Postman | Phothoshop</p>
+<p align="center">- JavaScript | ReactJS | Redux | NodeJS | Express | Postgres | MySQL | Vercel | Heroku | TailwindCss | Postman</p>
+<p align="center">- C# | Windows batch | Adobe Phothoshop</p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
