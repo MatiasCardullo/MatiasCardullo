@@ -6,12 +6,16 @@
 - 🔭 I’m a programmer with knowledge in C# and Web Development
 - 🌱 I’m currently learning WebSocket, WebRTC, Rust
 - 👯 I’m looking to collaborate on any project, especially if it's about videogames or anime
+- 📚 Check out this <a href="e-knows.herokuapp.com">eccommerce book store</a> I made with some friends from SoyHenry 
 <!-- 🤔 I’m looking for help with ... -->
-- 📫 How to reach me: <a href="mailto:cardullo.matias.97@gmail.com">cardullo.matias.97@gmail.com</a>
 
 <h2 align="center">You can reach me at</h2>
 
 <p align="center">
+  <a href="mailto:cardullo.matias.97@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Matias Cardullo's Gmail" height="30" width="30">
+  </a>
+
   <a href="https://www.linkedin.com/in/matiascardullo/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Matias Cardullo's LinkedIn Profile" height="30" width="30">
   </a>
