@@ -6,7 +6,7 @@
 - 🔭 I’m a programmer with knowledge in C# and Web Development
 - 🌱 I’m currently learning WebSocket, WebRTC, Rust and Japanese
 - 👯 I’m looking to collaborate on any project where I can add value based on my knowledge and allow me to continue growing as a developer (especially if it's about videogames or anime)
-- 📚 Check out this <a href="https://e-knows.herokuapp.com">eccommerce book store</a> I made with some friends from SoyHenry ()
+- 📚 Check out this <a href="https://e-knows.herokuapp.com">eccommerce book store</a> I made with some friends from SoyHenry (<a href="https://github.com/eknows-ecommerce/pf-front">Front</a> and <a href="https://github.com/eknows-ecommerce/pf-back">Back</a> )
 <!-- 🤔 I’m looking for help with ... -->
 
 <h2 align="center">You can reach me at</h2>
@@ -33,7 +33,7 @@
 
 <p align="center">- JavaScript | ReactJS | Redux | NodeJS | Express | Postgres | MySQL | Vercel | Heroku | TailwindCss | Postman</p>
 <p align="center">- C# | Unity | Windows batch | Wget | FFmpeg</p>
-<p align="center">- Adobe Phothoshop | OBS | Openshot Editor | Audacity </p>
+<p align="center">- Adobe Phothoshop | OBS | Openshot Editor | Audacity</p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
