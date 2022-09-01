@@ -40,10 +40,12 @@
 
 <div align="center">
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MatiasCardullo&show_icons=true&theme=synthwave" alt="MatiasCardullo :: Profile Stats" />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCardullo&langs_count=10&theme=synthwave&layout=compact" alt="MatiasCardullo :: Top Langs" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=MatiasCardullo&show_icons=true&theme=github_dark" alt="MatiasCardullo :: Profile Stats" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCardullo&langs_count=10&theme=github_dark&layout=compact" alt="MatiasCardullo :: Top Langs" />
 
 </div>
+
+alt="TopCodeBeast" align = "center"/></p>
 <!--
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>-->
 
