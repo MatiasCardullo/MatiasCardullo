@@ -41,10 +41,10 @@
 <div align="center">
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MatiasCardullo&show_icons=true&theme=synthwave" alt="MatiasCardullo :: Profile Stats" />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCardullo&langs_count=10&theme=tokyonight&layout=compact" alt="MatiasCardullo :: Top Langs" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCardullo&langs_count=10&theme=synthwave&layout=compact" alt="MatiasCardullo :: Top Langs" />
 
 </div>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TopCodeBeast&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatiasCardullo&theme=synthwave" alt="TopCodeBeast" align = "center"/></p>
 <!--
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>-->
 
