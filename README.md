@@ -12,7 +12,6 @@
 - 🍲 <a href="https://pi-food-front.vercel.app">Site with food recipes</a> I made for the Individual Project in SoyHenry (<a href="https://github.com/MatiasCardullo/PI-Food-front">Front</a> and <a href="https://github.com/MatiasCardullo/PI-Food-back">Back</a>)
 - 📚 <a href="https://e-knows.herokuapp.com">Eccommerce book store</a> I made with some friends from SoyHenry (<a href="https://github.com/eknows-ecommerce/pf-front">Front</a> and <a href="https://github.com/eknows-ecommerce/pf-back">Back</a>)
 <!-- 🤔 I’m looking for help with ... -->
-<a href="https://github.com/eknows-ecommerce/pf-front">Front</a>
 
 <h2 align="center">You can reach me at</h2>
 
@@ -33,9 +32,8 @@
 
 <h2 align="center">My stack :man_technologist:</h2>
 
-<p align="center">- JavaScript | ReactJS | Redux | NodeJS | Express | Postgres | MySQL | Vercel | Heroku | TailwindCss | Postman</p>
-<p align="center">- C# | Unity | Windows batch | Wget | FFmpeg</p>
-<p align="center">- Trello | Slack | Adobe Phothoshop | OBS | Openshot Editor | Audacity</p>
+<p align="center">JavaScript | ReactJS | Redux | NodeJS | Express | Postgres | MySQL | Vercel | Heroku | TailwindCss | Postman</p>
+<p align="center">Trello | Slack | C# | Unity | Windows batch | Wget | FFmpeg | Phothoshop | OBS | Openshot Editor | Audacity</p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
