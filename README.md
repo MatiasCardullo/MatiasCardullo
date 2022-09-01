@@ -2,7 +2,6 @@
 
 <h2 align="center">About me</h2>
 
-<!-- 🔭 I’m currently working on ... -->
 - 🔭 I’m a programmer with knowledge in C# and Web Development
 - 🌱 I’m currently learning WebSocket, WebRTC, Rust and Japanese
 - 👯 I’m looking to collaborate on any project where I can add value based on my knowledge and allow me to continue growing as a developer (especially if it's about videogames or anime)
@@ -12,7 +11,6 @@
 - 🍲 <a href="https://pi-food-front.vercel.app">Site with food recipes</a> I made for the Individual Project in SoyHenry (<a href="https://github.com/MatiasCardullo/PI-Food-front">Front</a> and <a href="https://github.com/MatiasCardullo/PI-Food-back">Back</a>)
 - 📚 <a href="https://e-knows.herokuapp.com">Eccommerce book store</a> I made with some friends from SoyHenry (<a href="https://github.com/eknows-ecommerce/pf-front">Front</a> and <a href="https://github.com/eknows-ecommerce/pf-back">Back</a>)
 - 🎮 <a href="https://github.com/MatiasCardullo/BeatScape">BeatScape</a> Roguelike Unity Game (on hiatus)
-<!-- 🤔 I’m looking for help with ... -->
 
 <h2 align="center">My stack :man_technologist:</h2>
 
@@ -44,10 +42,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCardullo&langs_count=10&theme=github_dark&layout=compact" alt="MatiasCardullo :: Top Langs" />
 
 </div>
-
-alt="TopCodeBeast" align = "center"/></p>
-<!--
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>-->
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
