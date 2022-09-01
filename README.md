@@ -14,6 +14,11 @@
 - 🎮 <a href="https://github.com/MatiasCardullo/BeatScape">BeatScape</a> Roguelike Unity Game (on hiatus)
 <!-- 🤔 I’m looking for help with ... -->
 
+<h2 align="center">My stack :man_technologist:</h2>
+
+<p align="center">JavaScript | ReactJS | Redux | NodeJS | Express | Postgres | MySQL | Vercel | Heroku | TailwindCss | Postman</p>
+<p align="center">Trello | Slack | C# | Unity | Windows batch | Wget | FFmpeg | Phothoshop | OBS | Openshot Editor | Audacity</p>
+
 <h2 align="center">You can reach me at</h2>
 
 <p align="center">
@@ -31,20 +36,15 @@
   </a>
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
-
-<p align="center">JavaScript | ReactJS | Redux | NodeJS | Express | Postgres | MySQL | Vercel | Heroku | TailwindCss | Postman</p>
-<p align="center">Trello | Slack | C# | Unity | Windows batch | Wget | FFmpeg | Phothoshop | OBS | Openshot Editor | Audacity</p>
-
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Top langs :tongue:</h4>
+<div align="center">
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCardullo&langs_count=10&theme=tokyonight&layout=compact" alt="MatiasCardullo :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MatiasCardullo&show_icons=true&theme=synthwave" alt="MatiasCardullo :: Profile Stats" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCardullo&langs_count=10&theme=tokyonight&layout=compact" alt="MatiasCardullo :: Top Langs" />
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MatiasCardullo&show_icons=true&theme=synthwave" alt="MatiasCardullo :: Profile Stats" /></p>
+</div>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TopCodeBeast&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
 <!--
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>-->
 
