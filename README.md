@@ -1,18 +1,21 @@
 ### Hi there, I'm Matias Cardullo 👋
 
 <h2 align="center">About me</h2>
+
 <!-- 🔭 I’m currently working on ... -->
 - 🔭 I’m a programmer with knowledge in C# and Web Development
 - 🌱 I’m currently learning WebSocket, WebRTC, Rust and Japanese
 - 👯 I’m looking to collaborate on any project where I can add value based on my knowledge and allow me to continue growing as a developer (especially if it's about videogames or anime)
 
 <h2 align="center">Projects</h2>
+
 - 🍲 <a href="https://pi-food-front.vercel.app">Site with food recipes</a> I made for the Individual Project in SoyHenry (<a href="https://github.com/MatiasCardullo/PI-Food-front">Front</a> and <a href="https://github.com/MatiasCardullo/PI-Food-back">Back</a>)
 - 📚 <a href="https://e-knows.herokuapp.com">Eccommerce book store</a> I made with some friends from SoyHenry (<a href="https://github.com/eknows-ecommerce/pf-front">Front</a> and <a href="https://github.com/eknows-ecommerce/pf-back">Back</a>)
 <!-- 🤔 I’m looking for help with ... -->
 <a href="https://github.com/eknows-ecommerce/pf-front">Front</a>
 
 <h2 align="center">You can reach me at</h2>
+
 <p align="center">
   <a href="mailto:cardullo.matias.97@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Matias Cardullo's Gmail" height="30" width="30">
@@ -29,6 +32,7 @@
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
+
 <p align="center">- JavaScript | ReactJS | Redux | NodeJS | Express | Postgres | MySQL | Vercel | Heroku | TailwindCss | Postman</p>
 <p align="center">- C# | Unity | Windows batch | Wget | FFmpeg</p>
 <p align="center">- Trello | Slack | Adobe Phothoshop | OBS | Openshot Editor | Audacity</p>
