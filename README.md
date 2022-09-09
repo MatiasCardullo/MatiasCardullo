@@ -15,7 +15,7 @@
 <h2 align="center">My stack :man_technologist:</h2>
 
 <p align="center">JavaScript | ReactJS | Redux | NodeJS | Express | Postgres | MySQL | Vercel | Heroku | TailwindCss | Postman</p>
-<p align="center">Trello | Slack | C# | Unity | Windows batch | Wget | FFmpeg | Phothoshop | OBS | Openshot Editor | Audacity</p>
+<p align="center">Trello | Slack | C# | Unity | Windows batch | Wget | FFmpeg | Photoshop | OBS | Openshot Editor | Audacity</p>
 
 <h2 align="center">You can reach me at</h2>
 
